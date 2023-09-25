@@ -1,0 +1,13 @@
+/* Apply styles to even rows (2nd, 4th, 6th, ...) */
+table tr:nth-child(even) {
+  background-color: #f2f2f2; /* or any other background color you prefer */
+}
+
+/* Apply styles to odd rows (1st, 3rd, 5th, ...) */
+table tr:nth-child(odd) {
+  background-color: #ffffff; /* or any other background color you prefer */
+}
+
+.tableContainer{
+  max-width: 90vw;
+}

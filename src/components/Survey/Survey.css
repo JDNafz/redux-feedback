@@ -1,0 +1,15 @@
+.inputField {
+  display: flex;
+  justify-content: center;
+  /* border: 2px solid green; */
+}
+.inputField Button {
+  margin: 0 4px;
+}
+.surveyContainer {
+  display: flex;
+  justify-content: center;
+  /* border: 2px solid red; */
+  text-align: center;
+}
+
